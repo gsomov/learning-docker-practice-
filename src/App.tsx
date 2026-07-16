@@ -12,7 +12,7 @@ const LAYERS = [
 
 const TIMELINE = [
   {
-    day: "День 1",
+    day: "Этап 1",
     items: [
       ["Репозиторий", "Создан на GitHub, наставница добавлена как collaborator"],
       ["Проект", "React + TypeScript + Vite создан командой npm create vite@latest, проверен локально без Docker"],
@@ -24,7 +24,7 @@ const TIMELINE = [
     ],
   },
   {
-    day: "День 2",
+    day: "Этап 2",
     items: [
       ["Dev Containers", "Установлено расширение VS Code, написан .devcontainer/devcontainer.json"],
       ["Reopen in Container", "VS Code подключился внутрь контейнера, ESLint и Prettier установились автоматически"],
